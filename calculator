@@ -1,0 +1,16 @@
+# x=int(input("number1"))
+# y=int(input("number 2"))
+# total=input("(+, -, *, /, %):")
+# result=""
+# if total=="+":
+#     result=x+y
+# elif total=="-":
+#     result=x-y
+# elif total=="*":
+#     result=x*y
+# elif total=="/":
+#     result=x/y
+# else:
+#     print("Invalid value")
+#
+# print(result)
